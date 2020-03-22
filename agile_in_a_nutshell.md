@@ -39,7 +39,7 @@ The core values and principles are defined in the "Manifesto for Agile Software-
 
 
 ### TIP:
-    Stop producing a document and see who complains. If someone misses the paperwork, ask why the document is necessary. In fact, ask, “Why?” five times to get to the root reason the document is missed. When you know the core reason for the report, see how you can satisfy that need with a streamlined process.
+_Stop producing a document and see who complains. If someone misses the paperwork, ask why the document is necessary. In fact, ask, “Why?” five times to get to the root reason the document is missed. When you know the core reason for the report, see how you can satisfy that need with a streamlined process._
 
 ## Customer collaboration over contract negotiation
 
