@@ -28,7 +28,7 @@ The core values and principles are defined in the "Manifesto for Agile Software-
 * Let people who do the job create the best working processes.
 * Very often, other people (external experts, management etc) create processes on paper. (example Time-Manager at Toyota)
 * Respect peoples expertise to do the best to get the job done. (TRUST & RESPECT)
-* Management is supporter, not the commander. Let the people do the job and management helps to setup the best working environment for the people.
+* Management is supporter, not the commander. Let the people do the job and management helps to setup the best working environment for the people. (self-organized teams => no project-manager needed anymore!!!)
 
 ## Working software over comprehensive documentation
 
