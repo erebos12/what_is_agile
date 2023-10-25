@@ -28,7 +28,7 @@ The core values and principles are defined in the "Manifesto for Agile Software-
 * Let people who do the job creating the best working processes.
   - Respect peoples expertise to do the best to get the job done. (TRUST & RESPECT)
   - self-organized (autonomuous) teams => no project-manager needed anymore!!!
-  - teams decide on their own what process they follow. For example one teams in an organization are using XP, another Scrum and a third team does Kanban
+  - teams decide on their own what process they follow. For example one team in an organization are using XP, another Scrum and a third team does Kanban
 * Very often, other people (external experts, management etc) create processes on paper. (example Time-Manager at Toyota) 
 * Management is supporter, not the commander. Let the people do the job and management helps to setup the best working environment for the people. 
 
