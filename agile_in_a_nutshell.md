@@ -96,6 +96,6 @@ Awesome talks about Agilility?
 * https://www.youtube.com/watch?v=HZyRQ8Uhhmk - "Agile is dead" by Allen Holub
 * https://www.youtube.com/watch?v=QVBlnCTu9Ms - "No Estimates" by Allen Holub
 * https://www.youtube.com/watch?v=GE6lbPLEAzc - "Explaining Agile" - by Martin Fowler and Neal Ford
-* https://www.youtube.com/watch?v=zNvmjPzdqKc - "A Retake on the Agile Manifesto" (jump to timestamp 20:30)"
+* https://www.youtube.com/watch?v=zNvmjPzdqKc - "A Retake on the Agile Manifesto" (jump to timestamp 28:04)"
 
 
