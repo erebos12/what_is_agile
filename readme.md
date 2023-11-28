@@ -88,7 +88,7 @@ Old way is to focus on time and budget (contract). The result in the industry wa
 
 - Plans are PREDICTIVE and Agile Working is ADAPTIVE !
 - Whats the problem with plans?
-  - We must predict the future and humans are really bad in predicting the future! We are just guesing and running a business based on guessing seems not to be the best way. See also _#NoEstimates_ https://www.youtube.com/watch?v=QVBlnCTu9Ms
+  - We must predict the future and humans are really bad in predicting the future! We are just guessing and running a business based on guessing seems not to be the best way. See also _#NoEstimates_ https://www.youtube.com/watch?v=QVBlnCTu9Ms
 - Since the requirements will change for sure, the plan has to change too. This can happen very often. So why maintaining a plan at all when its always changing?
 - Focus on changing the teams, skills and software to solve the actual problem.
 - Adjusting/Adapting to the volatile needs of customer and market is the core of BEING AGILE.
