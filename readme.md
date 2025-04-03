@@ -98,13 +98,22 @@ In other words: **“Surgery successful, but the patient died.”**
 
 ## Responding to change over following a plan
 
-- Plans are PREDICTIVE and Agile Working is ADAPTIVE !
-- Whats the problem with plans?
-  - We must predict the future and humans are really bad in predicting the future! We are just guessing and running a business based on guessing seems not to be the best way. See also _#NoEstimates_ https://www.youtube.com/watch?v=QVBlnCTu9Ms
-- Since the requirements will change for sure, the plan has to change too. This can happen very often. So why maintaining a plan at all when its always changing?
-- Focus on changing the teams, skills and software to solve the actual problem.
-- Adjusting/Adapting to the volatile needs of customer and market is the core of BEING AGILE.
-- When you cannot change easily and fast to new requirements (these can affect team, skills and of course requirements of the software), you cannot fullfill the real needs of the market.
+- **Plans are PREDICTIVE — Agile is ADAPTIVE!**
+
+- What's the problem with plans?
+  - Plans require us to **predict the future** — and humans are notoriously bad at that!  
+    In most cases, we’re just guessing. Running a business based on guesswork is risky at best.  
+    👉 See also [_#NoEstimates_](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
+
+- Requirements will inevitably change — which means the plan must change too.  
+  And if plans keep changing, why invest time in maintaining something that constantly becomes outdated?
+
+- Instead, focus on evolving your **teams**, **skills**, and **software** to solve real problems.
+
+- The ability to **adapt quickly and effectively** to shifting customer and market needs is at the heart of **being agile**.
+
+- If you can’t adjust fast — whether that’s team composition, competencies, or the software itself — you won’t be able to meet the real demands of the market.
+
 
 # Agile Word Cloud
 
