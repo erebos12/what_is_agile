@@ -52,6 +52,7 @@ The core values and principles are defined in the "Manifesto for Agile Software-
 
 - Working software is the primary measure of progress.
 - Don't document progress by excel sheets, traffic lights / percentages on slides or other documents.
+- "Doing is better than knowing!"
 - After all, the working software is the reason for the project.
 - With agile approaches, project teams spend more time on development and less time on documentation, resulting in a more efficient delivery of a working product.
 
@@ -61,31 +62,39 @@ _Stop producing a document and see who complains. If someone misses the paperwor
 
 ## Customer collaboration over contract negotiation
 
-Do you experienced following scenario:
+Have you ever experienced the following scenario?
 
-- Boss/Manager A asks Boss/Manager B: How long do you need to build that software?
-- Boss B: Well, my developers said, 9 months, with 10 developers full-time.
-- Boss A: Oh, thats too long. We need it faster. Can't you make it faster. Maybe 3 months?
-- Boss B: No, 3 months is impossible.
-- Boss A: Ok, then maybe 6 months.
-- Boss B: No, never. But maybe 8 months...
-  ..._negotation continues_...
+- Manager A asks Manager B: “How long will it take to build this software?”
+- Manager B: “Well, my developers estimate 9 months with 10 full-time developers.”
+- Manager A: “That’s too long. Can’t you do it faster? Maybe in 3 months?”
+- Manager B: “No, 3 months is impossible.”
+- Manager A: “Alright, how about 6 months then?”
+- Manager B: “Still not realistic… but maybe we can manage 8 months.”
+  ..._the negotiation continues_...
 
-This is a typical scenario in the software industry. The outcome of this dialog defines time, budget, tools you have to use or what partners/teams you have to work with. The problem with this is that nobody cares abouth the real solution. Its just important whats written into the contract. By that the focus to solve the problem is lost totally!
+This is a common scenario in the software industry. The result of such conversations often defines the timeline, budget, tools, and even the teams or partners involved.  
+
+The problem?  
+Nobody focuses on finding the *right solution*. What matters is simply what gets written into the contract — and that shifts the focus away from solving the actual problem.
+
 
 ### So what would be the agile way ?
 
-Collaborate instead of negotiate !
+**Collaborate instead of negotiate!**
 
-- Start with small slices which delivers value to the customer.
-- Customer just pays for this small piece ("Agile Contracting"). You could just pay for 1 or 2 iterations and see whats the outcome.
-- After each iteration, you or the client can decide to continue or stop the collaboration.
-- Furthermore the client can give immediate feedback and adjust the direction of the project in case its needed. So you have direct impact on how the project goes on.
-- By that you work on solving the actual problem, not fullfilling a contract. YOU REALLY COLLABORATE!
+- Start with small, value-delivering slices for the customer.
+- The customer only pays for this small piece — this is known as **Agile Contracting**. For example, they might pay for just one or two iterations to see the results.
+- After each iteration, either you or the client can choose to continue or end the collaboration.
+- The client can give immediate feedback and adjust the direction of the project as needed — giving them real influence over the outcome.
+- This way, you're focused on **solving the actual problem**, not just fulfilling a contract.  
+  **This is true collaboration!**
 
-_**YOU CONVICE BY QUALITY, NOT BY CONTRACT !**_
+_**You convince with quality, not with contracts!**_
 
-Old way is to focus on time and budget (contract). The result in the industry was, that even when you are in time & budget, the software didn't do what is was meant to do. You just delivered crap in time & budget. In other words "Surgery successfull, but patient dead!"
+The traditional approach focuses on time and budget (the contract). But what’s the result?  
+Even when projects are delivered on time and within budget, the software often fails to solve the real problem.  
+In other words: **“Surgery successful, but the patient died.”**
+
 
 ## Responding to change over following a plan
 
